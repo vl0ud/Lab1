@@ -12,7 +12,7 @@ void circle(){
     a = a/(57.3);     // Перевод в радианы
     float l = 3.14 * 2*r;    // Длина окружности 
     float s = 3.14 *r *r;    // Площадь круга
-    float s_segment =  a/2 *r *r;    // Площадь сегмента 
+    float s_segment =  a/2 *r *r;    // Площадь сегмента ]
 
     cout << l << "  " << s << "  " << s_segment << endl;
 }
