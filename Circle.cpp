@@ -16,3 +16,8 @@ void circle(){
 
     cout << l << "  " << s << "  " << s_segment << endl;
 }
+
+int main()
+{
+    circle();
+}
